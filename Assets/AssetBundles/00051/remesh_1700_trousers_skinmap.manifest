@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 4139306909
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 01eb3ae97a17016e1f8e6f99b8c1cd99
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 17bf839637e2167391a374a4fefcfab1
+HashAppended: 0
+ClassTypes:
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a40ef07b8494a443f95f90637aab250d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2367c7fda2ffe4e84a808aa9e3662723, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/CLOTH3D/train/00051/remesh_1700_Trousers_skinmap.asset
+Dependencies:
+- D:/VR/Obi/Assets/AssetBundles/00051/remesh_1700_trousers_blueprint
+- D:/VR/Obi/Assets/AssetBundles/00051/trousers

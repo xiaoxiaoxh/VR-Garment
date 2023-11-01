@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 1211367709
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 925564d258eff9059486c285730b7c2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 17bf839637e2167391a374a4fefcfab1
+HashAppended: 0
+ClassTypes:
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a40ef07b8494a443f95f90637aab250d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2367c7fda2ffe4e84a808aa9e3662723, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/CLOTH3D/train/00105/remesh_1700_Tshirt_skinmap.asset
+Dependencies:
+- D:/VR/Obi/Assets/AssetBundles/00105/remesh_1700_tshirt_blueprint
+- D:/VR/Obi/Assets/AssetBundles/00105/tshirt

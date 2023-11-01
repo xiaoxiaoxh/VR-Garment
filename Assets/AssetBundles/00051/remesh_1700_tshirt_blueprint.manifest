@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1233105940
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc6e2654e6f577a3ec30a60a34381ca2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b43e6d0a64ae41e4675001dfd3abad09
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 2367c7fda2ffe4e84a808aa9e3662723, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/CLOTH3D/train/00051/remesh_1700_Tshirt_blueprint.asset
+Dependencies: []

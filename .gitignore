@@ -1,0 +1,16 @@
+/[Ll]ibrary/
+/[Ll]ogs/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Uu]serSettings/
+*.unitypackage
+
+/.vs/
+/.idea/
+/.vscode/
+.vsconfig
+*.csproj
+*.sln
+*.exe
+Assets/ProjectSettings/ProjectVersion.txt

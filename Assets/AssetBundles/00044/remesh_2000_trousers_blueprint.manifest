@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3604946878
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 49601ac7de3082e9f39b9b08503f74db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09aad83dbd7a2a78cb84781179ec6029
+HashAppended: 0
+ClassTypes:
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2367c7fda2ffe4e84a808aa9e3662723, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/CLOTH3D/train/00044/remesh_2000_Trousers_blueprint.asset
+Dependencies: []

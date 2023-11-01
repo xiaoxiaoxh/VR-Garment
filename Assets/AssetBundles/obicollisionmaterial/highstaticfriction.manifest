@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2332999308
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: edf649045a74a3c7d0731e0055ac479e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af9b7cae5aafb33ec2b8e8c3dfe09fc4
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b9c84cdb747944209b1c8753933c5db, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/HighStaticFriction.asset
+Dependencies: []

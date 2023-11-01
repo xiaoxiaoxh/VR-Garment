@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 606172328
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 99447380565afb278f521e190312189f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09aad83dbd7a2a78cb84781179ec6029
+HashAppended: 0
+ClassTypes:
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2367c7fda2ffe4e84a808aa9e3662723, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/CLOTH3D/train/00087/remesh_1700_Skirt_blueprint.asset
+Dependencies:
+- D:/VR/Obi/Assets/AssetBundles/00087/remesh_1700_skirt
