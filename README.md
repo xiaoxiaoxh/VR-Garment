@@ -1,10 +1,10 @@
 # VR-Garment
 This project is used for collecting garment manipulation data with human hands in VR, which is the default data recording system for [GarmentTracking (CVPR 2023)](https://github.com/xiaoxiaoxh/GarmentTracking).
-![VR-Garment](assets/vr_garment.png)
+![VR-Garment](Assets/vr_garment.png)
 
 ## Data Examples
-![Flattening Examples](assets/flattening_example.png)
-![Folding_Examples](assets/folding_example.png)
+![Flattening Examples](Assets/flattening_example.png)
+![Flattening Examples](Assets/flattening_example.png)
 ## Hardware
 This project needs to be used with the following hardware devices.
 
